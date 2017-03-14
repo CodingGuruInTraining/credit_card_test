@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/CodingGuruInTraining/JavaLab4.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/CodingGuruInTraining/JavaLab6.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Documents\MCTC\2017 Spring\ITEC Java\Lab4_2" />
+    <option name="cloneParentDir" value="D:\Documents\MCTC\2017 Spring\ITEC Java\Lab6" />
   </component>
 </application>
