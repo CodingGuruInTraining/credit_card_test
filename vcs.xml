@@ -42,8 +42,12 @@
           <option name="url" value="https://github.com/CodingGuruInTraining/JavaLab11_CubesGUI.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/EdwinMelendez/HomeworkPlannerJavaFinal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Documents\MCTC\2017 Spring\ITEC Java\" />
+    <option name="cloneParentDir" value="D:\Documents\MCTC\2017 Spring\ITEC Java\extra" />
   </component>
 </application>
