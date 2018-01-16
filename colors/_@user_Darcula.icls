@@ -1,0 +1,18 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-01-16T17:01:43</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2016.3.6.0.0</property>
+    <property name="modified">2018-01-16T17:09:29</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <attributes>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="61cbc8" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
